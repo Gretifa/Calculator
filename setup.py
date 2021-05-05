@@ -6,7 +6,7 @@ setuptools.setup(
     author="Greta",
     description="Calculator",
     url="https://github.com/Gretifa/Calculator",
-    packages=setuptools.find_packages(),
+    packages=['Calculator'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: MIT License",
