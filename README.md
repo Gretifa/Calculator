@@ -17,10 +17,10 @@ Finally initialize class:
 Calculator.add(2,5)
 
 ### Calculator's methods
-*Calculator.add(x (required), y (not required))
-*Calculator.subtract(x (required), y (not required))
-*Calculator.multiply(x (required), y (not required))
-*Calculator.divide(x (required), y (not required))
-*Calculator.nthRoot(x (required), y (not required))
-*Calculator.reset()
+* Calculator.add(x (required), y (not required))
+* Calculator.subtract(x (required), y (not required))
+* Calculator.multiply(x (required), y (not required))
+* Calculator.divide(x (required), y (not required))
+* Calculator.nthRoot(x (required), y (not required))
+* Calculator.reset()
 
