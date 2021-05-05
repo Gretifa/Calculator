@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May  3 17:21:55 2021
-
-@author: greta
-"""
-
 class Calculator:
     """
     Calculator
