@@ -9,12 +9,12 @@ The app was written with Python.
 
 ### Google Colab 
 There is ability to get the package into Google Colab notebook.
-First you need get package from github, using command:
-pip install git+git://github.com/Gretifa/Calculator
-Second import Calculator, using command:
-from Calculator.calculator import Calculator
-Finally initialize class:
-Calculator.add(2,5)
+1. First you need get package from github, using command:
+    * pip install git+git://github.com/Gretifa/Calculator
+2. Second import Calculator, using command:
+    * from Calculator.calculator import Calculator
+3. Finally initialize class:
+    * Calculator.add(2,5)
 
 ### Calculator's methods
 * Calculator.add(x (required), y (not required))
